@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\C# 3\task3File\bin\Debug\net8.0\task3File.exe
+C:\Users\Administrator\Desktop\C# 3\task3File\bin\Debug\net8.0\task3File.deps.json
+C:\Users\Administrator\Desktop\C# 3\task3File\bin\Debug\net8.0\task3File.runtimeconfig.json
+C:\Users\Administrator\Desktop\C# 3\task3File\bin\Debug\net8.0\task3File.dll
+C:\Users\Administrator\Desktop\C# 3\task3File\bin\Debug\net8.0\task3File.pdb
+C:\Users\Administrator\Desktop\C# 3\task3File\obj\Debug\net8.0\task3File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\C# 3\task3File\obj\Debug\net8.0\task3File.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C# 3\task3File\obj\Debug\net8.0\task3File.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C# 3\task3File\obj\Debug\net8.0\task3File.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C# 3\task3File\obj\Debug\net8.0\task3File.dll
+C:\Users\Administrator\Desktop\C# 3\task3File\obj\Debug\net8.0\refint\task3File.dll
+C:\Users\Administrator\Desktop\C# 3\task3File\obj\Debug\net8.0\task3File.pdb
+C:\Users\Administrator\Desktop\C# 3\task3File\obj\Debug\net8.0\task3File.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\C# 3\task3File\obj\Debug\net8.0\ref\task3File.dll

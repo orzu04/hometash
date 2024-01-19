@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\C# 3\task5File\bin\Debug\net8.0\task5File.exe
+C:\Users\Administrator\Desktop\C# 3\task5File\bin\Debug\net8.0\task5File.deps.json
+C:\Users\Administrator\Desktop\C# 3\task5File\bin\Debug\net8.0\task5File.runtimeconfig.json
+C:\Users\Administrator\Desktop\C# 3\task5File\bin\Debug\net8.0\task5File.dll
+C:\Users\Administrator\Desktop\C# 3\task5File\bin\Debug\net8.0\task5File.pdb
+C:\Users\Administrator\Desktop\C# 3\task5File\obj\Debug\net8.0\task5File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\C# 3\task5File\obj\Debug\net8.0\task5File.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C# 3\task5File\obj\Debug\net8.0\task5File.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C# 3\task5File\obj\Debug\net8.0\task5File.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C# 3\task5File\obj\Debug\net8.0\task5File.dll
+C:\Users\Administrator\Desktop\C# 3\task5File\obj\Debug\net8.0\refint\task5File.dll
+C:\Users\Administrator\Desktop\C# 3\task5File\obj\Debug\net8.0\task5File.pdb
+C:\Users\Administrator\Desktop\C# 3\task5File\obj\Debug\net8.0\task5File.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\C# 3\task5File\obj\Debug\net8.0\ref\task5File.dll
